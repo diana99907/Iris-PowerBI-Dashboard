@@ -26,14 +26,27 @@ This project showcases an interactive Power BI dashboard built using the Iris Fl
 - Interactive Reporting
 
 ## Dataset
-**Dataset:** Iris Flower Dataset
 
-**Source:** University of Nevada, Reno Data Analytics Program using the NCLab platform
+Dataset: Iris Flower Dataset
+
+Source: University of Nevada, Reno Data Analytics Program using the NCLab platform
+
+## Key Insights
+
+- Compared measurements across all three Iris species.
+- Used interactive slicers to filter dashboard views.
+- Identified relationships between petal and sepal dimensions.
+- Built dynamic visualizations to support data exploration.
+
+
 
 ## Repository Contents
 - Power BI (.pbix) file
 - Dashboard screenshots
 - README
 
+
 ## Author
 **Diana Banuelos-Ramirez**
+
+
